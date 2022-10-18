@@ -8,8 +8,8 @@ Writing this to track my progress on *Bandit* from OverTheWire. The game is [acc
       This includes writeups of your solution on your blog or website!
 ```
 
-Current progress: 10 -> 11
+Current progress: 12 -> 13
 <!---
 ssh command:
-ssh bandit10@bandit.labs.overthewire.org -p 2220
+ssh bandit12@bandit.labs.overthewire.org -p 2220
 -->
